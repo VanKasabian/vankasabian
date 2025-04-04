@@ -39,7 +39,7 @@ in_menu: true
 
   <article class="framalibre-notice">
     <div>
-      <img src="https://framalibre.org/images/logo/LanguageTool.png">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LanguageTool_Logo.svg">
     </div>
     <div>
       <h2>LanguageTool</h2>
