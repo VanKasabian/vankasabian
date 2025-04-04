@@ -18,6 +18,7 @@ in_menu: true
   </article>
 
 
+
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/uBlock%20Origin.png">
@@ -31,6 +32,7 @@ in_menu: true
       </div>
     </div>
   </article>
+
 
 
   <article class="framalibre-notice">
@@ -48,6 +50,7 @@ in_menu: true
   </article>
 
 
+
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/VLC.png">
@@ -61,6 +64,7 @@ in_menu: true
       </div>
     </div>
   </article>
+
 
 
   <article class="framalibre-notice">
@@ -94,6 +98,7 @@ in_menu: true
   </article>
 
 
+
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/Thunderbird.png">
@@ -123,6 +128,7 @@ in_menu: true
   </article>
 
 
+
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/Nextcloud.png">
@@ -138,6 +144,7 @@ in_menu: true
   </article>
 
 
+
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/PDF%20Arranger.png">
@@ -148,6 +155,70 @@ in_menu: true
       <div>
         <a href="https://framalibre.org/notices/pdf-arranger.html">Vers la notice Framalibre</a>
         <a href="https://github.com/pdfarranger/pdfarranger">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/GIMP.png">
+    </div>
+    <div>
+      <h2>GIMP</h2>
+      <p>Un puissant logiciel d'édition et de retouche d'images.</p>
+      <div>
+        <a href="https://framalibre.org/notices/gimp.html">Vers la notice Framalibre</a>
+        <a href="https://www.gimp.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/darktable.png">
+    </div>
+    <div>
+      <h2>darktable</h2>
+      <p>Un puissant logiciel de traitement photo spécialisé dans le format RAW.</p>
+      <div>
+        <a href="https://framalibre.org/notices/darktable.html">Vers la notice Framalibre</a>
+        <a href="http://www.darktable.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/RawTherapee.png">
+    </div>
+    <div>
+      <h2>RawTherapee</h2>
+      <p>RawTherapee : un logiciel de développement de photos RAW</p>
+      <div>
+        <a href="https://framalibre.org/notices/rawtherapee.html">Vers la notice Framalibre</a>
+        <a href="http://rawtherapee.com">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/ImageOptim.png">
+    </div>
+    <div>
+      <h2>ImageOptim</h2>
+      <p>Un outil pour optimiser la taille de vos photos et images sans perdre en qualité</p>
+      <div>
+        <a href="https://framalibre.org/notices/imageoptim.html">Vers la notice Framalibre</a>
+        <a href="https://imageoptim.com/mac">Vers le site</a>
       </div>
     </div>
   </article> 
