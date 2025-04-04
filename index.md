@@ -3,6 +3,8 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+<p class="encart">Navigations</p>
+
 <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/Firefox.png">
@@ -49,7 +51,7 @@ in_menu: true
     </div>
   </article>
 
-
+ <p class="encart">Lecture vidéo</p>
 
   <article class="framalibre-notice">
     <div>
@@ -65,7 +67,7 @@ in_menu: true
     </div>
   </article>
 
-
+ <p class="encart">Utilitaires</p>
 
   <article class="framalibre-notice">
     <div>
@@ -97,7 +99,21 @@ in_menu: true
     </div>
   </article>
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/PDF%20Arranger.png">
+    </div>
+    <div>
+      <h2>PDF Arranger</h2>
+      <p>Un logiciel simple pour extraire, assembler, pivoter et réordonner des pages de documents PDF.</p>
+      <div>
+        <a href="https://framalibre.org/notices/pdf-arranger.html">Vers la notice Framalibre</a>
+        <a href="https://github.com/pdfarranger/pdfarranger">Vers le site</a>
+      </div>
+    </div>
+  </article> 
 
+ <p class="encart">Gestion courriel</p>
 
   <article class="framalibre-notice">
     <div>
@@ -127,7 +143,7 @@ in_menu: true
     </div>
   </article>
 
-
+ <p class="encart">Nuage magique</p>
 
   <article class="framalibre-notice">
     <div>
@@ -144,20 +160,7 @@ in_menu: true
   </article>
 
 
-
-  <article class="framalibre-notice">
-    <div>
-      <img src="https://framalibre.org/images/logo/PDF%20Arranger.png">
-    </div>
-    <div>
-      <h2>PDF Arranger</h2>
-      <p>Un logiciel simple pour extraire, assembler, pivoter et réordonner des pages de documents PDF.</p>
-      <div>
-        <a href="https://framalibre.org/notices/pdf-arranger.html">Vers la notice Framalibre</a>
-        <a href="https://github.com/pdfarranger/pdfarranger">Vers le site</a>
-      </div>
-    </div>
-  </article> 
+ <p class="encart">Retouche, photo, gestion d'images</p>
 
 
 
