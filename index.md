@@ -8,7 +8,7 @@ in_menu: true
 
 <article class="framalibre-notice">
     <div>
-      <img src="![Texte décrivant l'image]({% link images/firefox_browser_logo_icon_152991.png%})">
+      <img src="({% link images/firefox_browser_logo_icon_152991.png%})">
     </div>
     <div>
       <h2>Firefox</h2>
@@ -175,8 +175,7 @@ in_menu: true
       <div>
         <a href="https://framalibre.org/notices/gimp.html">Vers la notice Framalibre</a>
         <a href="https://www.gimp.org/">Vers le site</a>
-      </div>
-    </div>
+      </div>    </div>
   </article>
 
 
