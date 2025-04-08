@@ -5,6 +5,7 @@ in_menu: true
 ---
 <p class="encart">Navigations</p>
 
+![Texte décrivant l'image]({% link images/firefox_browser_logo_icon_152991.png %})
 
 <article class="framalibre-notice">
     <div>
