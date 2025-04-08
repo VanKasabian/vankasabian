@@ -5,9 +5,10 @@ in_menu: true
 ---
 <p class="encart">Navigations</p>
 
+
 <article class="framalibre-notice">
     <div>
-      <img src="https://framalibre.org/images/logo/Firefox.png">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/250px-Firefox_logo%2C_2019.svg.png">
     </div>
     <div>
       <h2>Firefox</h2>
