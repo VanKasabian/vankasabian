@@ -8,7 +8,7 @@ in_menu: true
 
 <article class="framalibre-notice">
     <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/250px-Firefox_logo%2C_2019.svg.png">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg">
     </div>
     <div>
       <h2>Firefox</h2>
