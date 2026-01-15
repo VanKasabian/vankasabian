@@ -3,6 +3,24 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+<p class="encart"># **Navigateurs**</p>
+#### Firefox  
+https://www.firefox.com/fr/?utm_campaign=SET_DEFAULT_BROWSER  
+  
+#### Brave  
+https://brave.com/fr/  
+  
+#### Vivaldi  
+https://vivaldi.com/fr/  
+  
+
+
+ 
+## **Navigateurs**
+### **Navigateurs**
+
+
+
 <p class="encart">Navigations</p>
 
 
